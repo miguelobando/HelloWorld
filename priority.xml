@@ -1,0 +1,58 @@
+<prioridades>
+    <Urgencia value="Crítica">
+        <Impacto value="Extenso / Disperso">
+            <prioridad>Highest</prioridad>
+        </Impacto>
+        <Impacto value="Significante / Grande">
+            <prioridad>Highest</prioridad>
+        </Impacto>
+        <Impacto value="Moderado / Limitado">
+            <prioridad>High</prioridad>
+        </Impacto>
+        <Impacto value="Menor / Localizado">
+            <prioridad>Medium</prioridad>
+        </Impacto>
+    </Urgencia>
+    <Urgencia value="Alta">
+        <Impacto value="Extenso / Disperso">
+            <prioridad>Highest</prioridad>
+        </Impacto>
+        <Impacto value="Significante / Grande">
+            <prioridad>High</prioridad>
+        </Impacto>
+        <Impacto value="Moderado / Limitado">
+            <prioridad>Medium</prioridad>
+        </Impacto>
+        <Impacto value="Menor / Localizado">
+            <prioridad>Low</prioridad>
+        </Impacto>
+    </Urgencia>
+    <Urgencia value="Media">
+        <Impacto value="Extenso / Disperso">
+            <prioridad>High</prioridad>
+        </Impacto>
+        <Impacto value="Significante / Grande">
+            <prioridad>Medium</prioridad>
+        </Impacto>
+        <Impacto value="Moderado / Limitado">
+            <prioridad>Low</prioridad>
+        </Impacto>
+        <Impacto value="Menor / Localizado">
+            <prioridad>Lowest</prioridad>
+        </Impacto>
+    </Urgencia>
+    <Urgencia value="Baja">
+        <Impacto value="Extenso / Disperso">
+            <prioridad>Medium</prioridad>
+        </Impacto>
+        <Impacto value="Significante / Grande">
+            <prioridad>Low</prioridad>
+        </Impacto>
+        <Impacto value="Moderado / Limitado">
+            <prioridad>Lowest</prioridad>
+        </Impacto>
+        <Impacto value="Menor / Localizado">
+            <prioridad>Lowest</prioridad>
+        </Impacto>
+    </Urgencia>
+</prioridades>
